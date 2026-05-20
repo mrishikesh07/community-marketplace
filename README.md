@@ -180,6 +180,6 @@ Add screenshots here:
 
 ## 👨‍💻 Author
 
-Built with by Rishikesh
+Built by Rishikesh
 
 GitHub: [https://github.com/mrishikesh07]
